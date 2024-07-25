@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.primepro&apos; to &apos;org.primepro.dao&apos;&#x0D;&#x0A;- Original project: &apos;SpringMVCSimulation&apos;&#x0D;&#x0A;- Original element: &apos;SpringMVCSimulation/src/main/java/org.primepro&apos;&#x0D;&#x0A;- Renamed element: &apos;SpringMVCSimulation/src/main/java/org.primepro.dao&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.primepro&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;org.primepro" name="org.primepro.dao" qualified="false" references="true" stamp="1714214913560" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringMVCSimulation"/>
+<aop-project name="SpringDemo"/>
+<aop-project name="SpringDemoJava5"/>
+<aop-project name="SpringDemo3"/>
+<aop-project name="SpringDemoJava1"/>
+<aop-project name="SpringDemo1"/>
+<aop-project name="SpringDemoJava2"/>
+<aop-project name="SpringDemo2"/>
+<aop-project name="SpringDemoJava3"/>
+<aop-project name="SpringDemo7"/>
+<aop-project name="SpringDemoJava"/>
+<aop-project name="SpringDemoJava4"/>
+</aop-reference-model>

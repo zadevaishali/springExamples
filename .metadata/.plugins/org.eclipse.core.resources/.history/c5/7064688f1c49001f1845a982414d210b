@@ -1,0 +1,34 @@
+package org.primepro;
+
+public class Company {
+private String companyName;
+private String comapnyLoc;
+
+public Company() {
+	// TODO Auto-generated constructor stub
+}
+
+public Company(String companyName, String comapnyLoc) {
+	super();
+	this.companyName = companyName;
+	comapnyLoc = comapnyLoc;
+}
+
+public String getCompanyName() {
+	return companyName;
+}
+
+public void setCompanyName(String companyName) {
+	this.companyName = companyName;
+}
+
+public String getComapnyLoc() {
+	return comapnyLoc;
+}
+
+public void setComapnyLoc(String comapnyLoc) {
+	comapnyLoc = comapnyLoc;
+}
+
+
+}
